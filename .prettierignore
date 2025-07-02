@@ -1,0 +1,9 @@
+node_modules
+*.log*
+.nuxt
+.nitro
+.output
+.env
+dist
+coverage
+*.local
