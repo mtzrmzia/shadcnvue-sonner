@@ -7,7 +7,7 @@ export default defineNuxtConfig({
   future: {
     compatibilityVersion: 4,
   },
-  css: ['~/assets/css/main.css', 'vue-sonner/style.css'],
+  css: ['~/assets/css/main.css'],
   vite: {
     plugins: [tailwindcss()],
   },
