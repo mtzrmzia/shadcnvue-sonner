@@ -26,6 +26,9 @@ export default defineNuxtConfig({
     prefix: 'SC',
     componentDir: './components/ui',
   },
+  vueSonner: {
+    css: false,
+  },
   build: {
     transpile: ['vue-sonner'],
   },
