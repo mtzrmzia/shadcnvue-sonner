@@ -24,7 +24,7 @@
     "tailwindcss": "^4.1.11",
     "tw-animate-css": "^1.3.4",
     "vue": "latest",
-    "vue-sonner": "^2.0.0"
+    "vue-sonner": "^2.0.1"
   },
   "devDependencies": {
     "@nuxt/eslint": "^1.4.1",
