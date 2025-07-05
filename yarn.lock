@@ -7283,7 +7283,7 @@ __metadata:
     tw-animate-css: "npm:^1.3.4"
     typescript: "npm:^5.8.3"
     vue: "npm:latest"
-    vue-sonner: "npm:^2.0.1"
+    vue-sonner: "npm:^2.0.0"
   languageName: unknown
   linkType: soft
 
@@ -10333,7 +10333,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vue-sonner@npm:^2.0.1":
+"vue-sonner@npm:^2.0.0":
   version: 2.0.1
   resolution: "vue-sonner@npm:2.0.1"
   checksum: 10c0/b251ddc8b534d95bb7a26dcc0a065cf3448a002c84c4940a938f45c1d580f27831a1b332257f9db9453e18b3b121b498b8978eb1b6aa9e03c89f3b1ff126dbfb
